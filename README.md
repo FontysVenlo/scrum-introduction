@@ -283,11 +283,11 @@ Usually a Scrum Master is not only a coach but normally experienced person in pr
 <!-- n -->
 
 - Product Backlog is a list of everything which might be needed for the product (Backlog Items)
-- Product Owner is responsible for maximizing the value of the product and the work of the Development team.
+- Product Owner is responsible for maximizing the value of the product and the work of the Development team.
 - Product Owner responsible for managing Product Backlog
 - Product Backlog is the single source of requirements
 - PO puts new Backlog Items into PB
-- Order of PB in PO defines “importance” and thussteers which one to do next
+- Order of PB in PO defines “importance” and thus steers which one to do next
 - Product Backlog Items can be very coarses grained like:
 
 >User Administration or Secure Server Connection 
@@ -300,9 +300,9 @@ or they can be very precise:
 
 ## Product backlog items as User Stories
 
-### Short and simple description of features from the perspective of the user<!-- .element: class="fragment" -->
+### Short and simple description of features from the perspective of the user<!-- .element: class="fragment" -->
 
-> As an Administrator, I want to check and confirm a new blog entry so that it is visible on my webpage.<!-- .element: class="fragment" -->
+> As an Administrator, I want to check and confirm a new blog entry so that it is visible on my webpage.<!-- .element: class="fragment" -->
 
 **Or**<!-- .element: class="fragment" -->
 
@@ -408,14 +408,14 @@ or they can be very precise:
 
 ### Daily Meeting
 
-- Daily is NO Management reporting meeting!!!<!-- .element: class="fragment" -->
+- Daily is NO Management reporting meeting!!!<!-- .element: class="fragment" -->
 - Daily Meetings (15 min Timebox)<!-- .element: class="fragment" -->
   - What did I do/finish yesterday<!-- .element: class="fragment" -->
   - What will I do/finish today<!-- .element: class="fragment" -->
   - Issues? (Impediments)<!-- .element: class="fragment" -->
-- No detailed discussions in daily<!-- .element: class="fragment" -->
-- Getting the team informed about the progress<!-- .element: class="fragment" -->
-- Team usually discusses after themeeting<!-- .element: class="fragment" -->
+- No detailed discussions in daily<!-- .element: class="fragment" -->
+- Getting the team informed about the progress<!-- .element: class="fragment" -->
+- Team usually discusses after the meeting<!-- .element: class="fragment" -->
 
 <!-- s -->
 
@@ -450,7 +450,7 @@ or they can be very precise:
 ## Definition of Done
 
 - What means a User Story thus a feature is done?<!-- .element: class="fragment" -->
-- First of all a User Story is functionally done if the Product Owner is “happy” ➡ Acceptance Criteria<!-- .element: class="fragment" -->
+- First of all a User Story is functionally done if the Product Owner is “happy” ➡ Acceptance Criteria<!-- .element: class="fragment" -->
 - What about the quality?<!-- .element: class="fragment" -->
 
 *Scrum does not allow negotiation according to quality.*<!-- .element: class="fragment" -->
@@ -475,7 +475,7 @@ or they can be very precise:
 ## Sprint Retrospective
 
 - Most important Meeting<!-- .element: class="fragment" -->
-- What went wrong / what went well regarding process / work / people / tools<!-- .element: class="fragment" -->
+- What went wrong / what went well regarding process / work / people / tools<!-- .element: class="fragment" -->
 - Inspect and Adapt<!-- .element: class="fragment" -->
 - Plan improvements (actions)<!-- .element: class="fragment" -->
 - Scrum Master moderates<!-- .element: class="fragment" -->
