@@ -282,13 +282,14 @@ Usually a Scrum Master is not only a coach but normally experienced person in pr
 - Order of Backlog Items in Product Backlog defines importance <!-- .element: class="fragment" -->
 <!-- n -->
 
-- Product Backlog is a list of everything which might be needed for the product (Backlog Items)
+- Product Backlog is a list of everything which might be needed for the product (Backlog Items)
 - Product Owner is responsible for maximizing the value of the product and the work of the Development team.
 - Product Owner responsible for managing Product Backlog
 - Product Backlog is the single source of requirements
 - PO puts new Backlog Items into PB
 - Order of PB in PO defines “importance” and thussteers which one to do next
-- Product Backlog Items can be very coarses grained like: 
+- Product Backlog Items can be very coarses grained like:
+
 >User Administration or Secure Server Connection 
 
 or they can be very precise:
@@ -509,6 +510,8 @@ or they can be very precise:
 
 ## How to start?
 
+<!-- s -->
+
 ## Schedule
 
 - Week 7: 
@@ -520,6 +523,8 @@ or they can be very precise:
 - Week 13: 
 - Week 14: 
 
+<!-- s -->
+
 ## What to do today and project week(s)
 
 - Setup your scrum process and your project
@@ -528,6 +533,9 @@ or they can be very precise:
   - In a backlog?
   - Trello? Github project board? Github Zenhub? Jira? ...
 - When, where and how will you hold your daily?
+
+<!-- s -->
+
 
 ## Hints for starting
 
