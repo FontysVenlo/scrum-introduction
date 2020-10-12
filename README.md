@@ -177,7 +177,7 @@ The 12 principles are based on the Agile Manifesto.
 
 <!-- s -->
 
-## Scrum profect profile
+## Scrum project profile
 
 ![Scrum project profile](images/shenhar-dvir-scrum-profile.jpg)
 
@@ -498,4 +498,52 @@ or they can be very precise:
 ![Again a retro example](images/retro-3.jpg)<!-- .element: class="fragment" -->
 
 <!-- s -->
+
+## Burndown Chart
+
+<!-- s -->
+
+## How to estimate?
+
+<!-- s -->
+
+## How to start?
+
+## Schedule
+
+- Week 7: 
+- Week 8: 
+- Week 9: 
+- Week 10: 
+- Week 11: 
+- Week 12: 
+- Week 13: 
+- Week 14: 
+
+## What to do today and project week(s)
+
+- Setup your scrum process and your project
+- Check the scrum roles and decide who should take the role(s)
+- How and where do we manage our work items? (Use Cases, User Stories, Epics, Features, Ideas...)
+  - In a backlog?
+  - Trello? Github project board? Github Zenhub? Jira? ...
+- When, where and how will you hold your daily?
+
+## Hints for starting
+
+- Start with a high level SRS
+  - Why?
+    - You need to have an idea about the high level functionalities and architecture
+    - You need to fill your backlog!!! (items, stories, epics, features ... you want to work on)
+    
+## Example setup
+
+...
+
+## Additional information and material
+
+### Scrum taken serious
+
+### Books
+
 
