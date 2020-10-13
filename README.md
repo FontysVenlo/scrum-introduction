@@ -1,9 +1,9 @@
 ---
 title: "Scrum Introduction"
-subtitle: "How to make slides and a report with markdown from one source"
+subtitle: "Short recap about scrum for Fontys Venlo - PRJ3 course"
 author: [Stefan Sobek]
 date: "2020-10-09"
-subject: "How to make slides and a report with markdown from one source"
+subject: "Short recap about scrum for Fontys Venlo - PRJ3 course"
 keywords: [Fontys, Markdown, Agile]
 lang: "en"
 titlepage: "true"
@@ -42,7 +42,7 @@ An introduction to Scrum for usage in [Fontys venlo](https://fontysvenlo.nl/de/)
 
 ## Scrum taken serious
 
-
+Funny example for usage of scrum: [Scrum Master - Funny movie about The Power of Scrum](https://youtu.be/P6v-I9VvTq4)
 
 <!-- s -->
 
