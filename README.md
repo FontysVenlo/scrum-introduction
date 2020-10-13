@@ -589,5 +589,4 @@ or they can be very precise:
 - Agile Product Management with Scrum (Pichler
 - Scrum - Agiles Projektmanagement erfolgreich einsetzen (Pichler)
 - Agile Coaching (Davis /Sedley)
-- Agile Retrospectives: Making Good Teams Great (Derby / Larson)
-
+- Agile Retrospectives: Making Good Teams Great (Derby / Larson)
