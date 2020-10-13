@@ -558,14 +558,6 @@ or they can be very precise:
   - Trello? Github project board? Github Zenhub? Jira? ...<!-- .element: class="fragment" -->
 - When, where and how will you hold your daily?<!-- .element: class="fragment" -->
 
-<!-- s -->
-
-## Hints for starting
-
-- Start with a high level SRS<!-- .element: class="fragment" -->
-  - Why?<!-- .element: class="fragment" -->
-    - You need to have an idea about the high level functionalities and architecture<!-- .element: class="fragment" -->
-    - You need to fill your backlog!!! (items, stories, epics, features ... you want to work on)<!-- .element: class="fragment" -->
 
 <!-- s -->
 
