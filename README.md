@@ -38,6 +38,12 @@ revealOptions:
 
 An introduction to Scrum for usage in [Fontys venlo](https://fontysvenlo.nl/de/) Software Engineering and Business Informatics study
 
+<!-- v -->
+
+## Scrum taken serious
+
+
+
 <!-- s -->
 
 ## Topics
@@ -50,7 +56,6 @@ An introduction to Scrum for usage in [Fontys venlo](https://fontysvenlo.nl/de/)
 - Meetings in Scrum
 - User Stories
 - Performance
-
 
 <!-- s -->
 
@@ -502,56 +507,95 @@ or they can be very precise:
 
 ## Burndown Chart
 
+![Burndown Chart](images/burndown-chart.jpg)
+
+<!-- n -->
+
+- The burndownchart allows to track the performance. There is an optimal Burndown-line (gray) drawn which gives a hint how you are performing. Usually a team does not follow the optimal line, but the trend should do. 
+
 <!-- s -->
 
 ## How to estimate?
+
+- How much can we do in the next sprint? <!-- .element: class="fragment" -->
+- Check what was done in the last sprints<!-- .element: class="fragment" -->
+- Velocity is Storypoints DONE in the last sprint(s)<!-- .element: class="fragment" -->
+- Average Velocity: 25 SP<!-- .element: class="fragment" -->
+
+![Velocity per sprint](images/velocity.jpg)
+
+<!-- s -->
+
+## Velocity - Estimated vs Real
+
+![Velocity Measurement](images/velocity-measure.jpg)
+
+<!-- n -->
+
+- The team captured the total capacity - how many people are available, and also put the estimated value and the real velocity value. This gives a very nice performance view.
 
 <!-- s -->
 
 ## How to start?
 
+<!-- .slide: data-background="https://media.giphy.com/media/Ln2dAW9oycjgmTpjX9/giphy.gif" -->
+
 <!-- s -->
 
 ## Schedule
 
-- Week 7: 
-- Week 8: 
-- Week 9: 
-- Week 10: 
-- Week 11: 
-- Week 12: 
-- Week 13: 
-- Week 14: 
+- See [Connect - Planning PRJ3 2020](https://connect.fontys.nl/instituten/fhtenl_studies/studies/INF/PRJ3/StudyMaterial/Planning_PRJ3_2020.pdf)
 
+  
 <!-- s -->
 
 ## What to do today and project week(s)
 
-- Setup your scrum process and your project
-- Check the scrum roles and decide who should take the role(s)
-- How and where do we manage our work items? (Use Cases, User Stories, Epics, Features, Ideas...)
-  - In a backlog?
-  - Trello? Github project board? Github Zenhub? Jira? ...
-- When, where and how will you hold your daily?
+- Setup your scrum process and your project<!-- .element: class="fragment" -->
+- Check the scrum roles and decide who should take the role(s)<!-- .element: class="fragment" -->
+- How and where do we manage our work items? (Use Cases, User Stories, Epics, Features, Ideas...)<!-- .element: class="fragment" -->
+  - In a backlog?<!-- .element: class="fragment" -->
+  - Trello? Github project board? Github Zenhub? Jira? ...<!-- .element: class="fragment" -->
+- When, where and how will you hold your daily?<!-- .element: class="fragment" -->
 
 <!-- s -->
 
-
 ## Hints for starting
 
-- Start with a high level SRS
-  - Why?
-    - You need to have an idea about the high level functionalities and architecture
-    - You need to fill your backlog!!! (items, stories, epics, features ... you want to work on)
-    
+- Start with a high level SRS<!-- .element: class="fragment" -->
+  - Why?<!-- .element: class="fragment" -->
+    - You need to have an idea about the high level functionalities and architecture<!-- .element: class="fragment" -->
+    - You need to fill your backlog!!! (items, stories, epics, features ... you want to work on)<!-- .element: class="fragment" -->
+
+<!-- s -->
+
 ## Example setup
 
-...
+### Trello
 
-## Additional information and material
+![Trello Example](images/trello-example.jpg)<!-- .element: class="fragment" -->
 
-### Scrum taken serious
+<!-- s -->
+
+### Github project
+
+![Github project board](images/github-project.jpg)<!-- .element: class="fragment" -->
+
+<!-- n -->
+
+- Create a github project board. The advantage is, that this is directly in your github repository. 
+- Hint: convert "notes" to "issues" - then you can refer to these issues in your commits with the issue number: #1 #2 #3...
+
+<!-- s -->
+
+## Additional information
 
 ### Books
 
+![Agile Books](images/agile-books.jpg)
+
+- Agile Product Management with Scrum (Pichler
+- Scrum - Agiles Projektmanagement erfolgreich einsetzen (Pichler)
+- Agile Coaching (Davis /Sedley)
+- Agile Retrospectives: Making Good Teams Great (Derby / Larson)
 
