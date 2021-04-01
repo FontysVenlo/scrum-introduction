@@ -15,3 +15,10 @@ jobs:
         with:
           name: scrum-introduction.pdf
           path: output
+      - uses: docker://dalibo/pandocker:latest
+        with: 
+          args: "howto-start.md -o output/scrum-howto-start.pdf --toc --pdf-engine=xelatex --template=./eisvogel.latex --listing -V mainfont=\"DejaVu Sans\""
+      - uses: actions/upload-artifact@master
+        with:
+          name: scrum-howto-start.pdf
+          path: output
