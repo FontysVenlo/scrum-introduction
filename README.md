@@ -1,9 +1,9 @@
 ---
 title: "Scrum Introduction"
-subtitle: "Short recap about scrum for Fontys Venlo - PRJ3 course"
+subtitle: "Short recap about scrum for Fontys Venlo"
 author: [Stefan Sobek]
-date: "2020-10-09"
-subject: "Short recap about scrum for Fontys Venlo - PRJ3 course"
+date: "2021-03-31"
+subject: "Short recap about scrum for Fontys Venlo"
 keywords: [Fontys, Markdown, Agile]
 lang: "en"
 titlepage: "true"
@@ -76,10 +76,9 @@ What does it mean if somebody says, he works agile or uses an agile process?
 Developing these small pieces
 The most important thing in agile is the **feedback part**. 
 
-
 <!-- s -->
 
-## Agile Manifesto 
+## Agile Manifesto
 
 - Individuals and interactions over processes and tools<!-- .element: class="fragment" -->
 - Working software over comprehensive documentation<!-- .element: class="fragment" -->
@@ -147,7 +146,8 @@ The 12 principles are based on the Agile Manifesto.
 - Goal is to produce<!-- .element: class="fragment" -->
 - Does NOT ensure success<!-- .element: class="fragment" -->
 - Is hard work<!-- .element: class="fragment" -->
-- http://www.scrumguides.org/<!-- .element: class="fragment" -->
+
+[➡ www.scrumguides.org](http://www.scrumguides.org/)<!-- .element: class="fragment" -->
 
 <!-- s -->
 
@@ -315,7 +315,7 @@ or they can be very precise:
 
 <!-- s -->
 
- ## User Stories should follow INVEST acronym
+## User Stories should follow INVEST acronym
 
 - Independent<!-- .element: class="fragment" -->
 - Negotiable<!-- .element: class="fragment" -->
@@ -533,50 +533,11 @@ or they can be very precise:
 <!-- n -->
 
 - The team captured the total capacity - how many people are available, and also put the estimated value and the real velocity value. This gives a very nice performance view.
-
 <!-- s -->
 
-## How to start?
+## Howto start?
 
-<!-- .slide: data-background="https://media.giphy.com/media/Ln2dAW9oycjgmTpjX9/giphy.gif" -->
-
-<!-- s -->
-
-## Schedule
-
-- See [Connect - Planning PRJ3 2020](https://connect.fontys.nl/instituten/fhtenl_studies/studies/INF/PRJ3/StudyMaterial/Planning_PRJ3_2020.pdf)
-
-  
-<!-- s -->
-
-## What to do today and project week(s)
-
-- Setup your scrum process and your project<!-- .element: class="fragment" -->
-- Check the scrum roles and decide who should take the role(s)<!-- .element: class="fragment" -->
-- How and where do we manage our work items? (Use Cases, User Stories, Epics, Features, Ideas...)<!-- .element: class="fragment" -->
-  - In a backlog?<!-- .element: class="fragment" -->
-  - Trello? Github project board? Github Zenhub? Jira? ...<!-- .element: class="fragment" -->
-- When, where and how will you hold your daily?<!-- .element: class="fragment" -->
-
-
-<!-- s -->
-
-## Example setup
-
-### Trello
-
-![Trello Example](images/trello-example.jpg)<!-- .element: class="fragment" -->
-
-<!-- s -->
-
-### Github project
-
-![Github project board](images/github-project.jpg)<!-- .element: class="fragment" -->
-
-<!-- n -->
-
-- Create a github project board. The advantage is, that this is directly in your github repository. 
-- Hint: convert "notes" to "issues" - then you can refer to these issues in your commits with the issue number: #1 #2 #3...
+See [Howto Start](howto-start.md)
 
 <!-- s -->
 
