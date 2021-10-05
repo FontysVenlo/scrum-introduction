@@ -1,10 +1,13 @@
 name: Create PDF report
 
-on: push
+on:
+  push:
+    branches:
+     - master
 
 jobs:
   convert_via_pandoc:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - run: mkdir output
